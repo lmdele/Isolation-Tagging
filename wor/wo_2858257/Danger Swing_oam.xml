@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="Danger Swing" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_960.png" width="417" height="698"/>
+<require type="other" src="Danger Swing.html"/>
+<require type="javascript" src="Danger Swing.js"/>
+<require type="image" src="images/Danger_Front.png"/>
+<require type="folder" src="images"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="417" hidden="true"/>
+<property name="default-height" defaultValue="698" hidden="true"/>
+<property name="resizable" defaultValue="false" hidden="true"/>
+<property name="centering" defaultValue="" hidden="true"/>
+<property name="scaling" defaultValue="" hidden="true"/>
+<property name="html-page" defaultValue="Danger Swing.html" hidden="true"/>
+<property name="target-platform" defaultValue="htmlcanvas" hidden="true"/>
+<property name="created-in" defaultValue="Adobe Animate CC" hidden="true"/>
+</properties>
+
+</widget>
